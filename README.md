@@ -62,6 +62,16 @@
 
 ### B. 02_home
 
+![image-20211004023647795](README.assets/image-20211004023647795.png)
+
+![image-20211004023708364](README.assets/image-20211004023708364.png)
+
+![image-20211004023740890](README.assets/image-20211004023740890.png)
+
+<img src="README.assets/image-20211004023754720.png" alt="image-20211004023754720" style="zoom: 80%;" /><img src="README.assets/image-20211004023810491.png" alt="image-20211004023810491" style="zoom: 80%;" />
+
+![image-20211004023901254](README.assets/image-20211004023901254.png)
+
 - **문제 목적**
 
   - 핵심 : Carousel 구현과  반응형으로 Grid Card 수 다르게 구현
@@ -89,8 +99,9 @@
              </article>
        ```
 
-
 ### C. 03_community
+
+![image-20211004023950769](README.assets/image-20211004023950769.png)
 
 - **문제 목적**
 
